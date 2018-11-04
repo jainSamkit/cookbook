@@ -1,2 +1,3 @@
 Hey!
 Its Sunday and I am learning git.I am having fun!
+Im trying to checkout
